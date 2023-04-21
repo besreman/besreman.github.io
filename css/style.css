@@ -444,7 +444,7 @@ margin: .7rem 0;
         display: none;
     }
 
-    .navbar .active{
+    .navbar.active{
         display: block; 
     }
 
