@@ -1,1 +1,1 @@
-personal website to showcase my works and personal blogs.
+personal website to showcase my past works portfolio.
